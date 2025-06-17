@@ -1,5 +1,5 @@
 {
-  "name": "@org/stocks",
+  "name": "stocks-app",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "react-router dev",
-    "build": "react-router build",
+    "build": "vite build",
     "start": "react-router-serve ./build/server/index.js",
     "test": "nx test",
     "lint": "nx lint",
