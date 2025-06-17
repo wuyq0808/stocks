@@ -1,0 +1,1043 @@
+
+> @org/chat@0.0.1 dev
+> nx serve
+
+
+> nx run @org/chat:serve
+
+> vite
+
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m125[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '@skyscanner/bpk-foundations-web/tokens/base.default';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/styles.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import '@skyscanner/backpack-web/bpk-stylesheets/index.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/styles.scss 2:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '@skyscanner/bpk-foundations-web/tokens/base.default';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/styles.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import '@skyscanner/backpack-web/bpk-stylesheets/index.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/styles.scss 2:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+20 │ @import './normalize';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 20:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import '../bpk-mixins/tokens.scss';
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 21:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import '../bpk-mixins/utils.scss';
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 22:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+20 │ @import './normalize';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 20:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import '../bpk-mixins/tokens.scss';
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 21:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import '../bpk-mixins/utils.scss';
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-stylesheets/index.scss 22:9  @import
+    src/styles.scss 2:9                                                    root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import 'tokens.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 21:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import 'badges.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 22:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+23 │ @import 'borders.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 23:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ @import 'breakpoints.scss';
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 24:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+25 │ @import 'buttons.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 25:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+WARNING: 2 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+
+WARNING: 2 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+
+[2m5:38:15 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88664:23
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at Object._asyncStartSync (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4885:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88670:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88644:19)
+      at VariableExpression0.accept$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124128:22)
+      at VariableExpression0.accept$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124131:19)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:86730:41
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90769:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90801:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _Future__asyncCompleteWithValue_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38430:18)
+      at Object._rootRun (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5329:16)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124448:16)
+      at _CustomZone.run$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39439:39)
+      at _CustomZone_bindCallback_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39536:25)
+      at Object._microtaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5189:24)
+      at StaticClosure._startMicrotaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5195:11)
+[2m5:38:15 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+[2m5:38:15 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import 'tokens.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 21:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import 'badges.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 22:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+23 │ @import 'borders.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 23:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+24 │ @import 'breakpoints.scss';
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 24:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+25 │ @import 'buttons.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 25:9  @use
+    src/App.scss 2:1                                                   root stylesheet
+
+[2m5:38:16 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88664:23
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at Object._asyncStartSync (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4885:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88670:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88644:19)
+      at VariableExpression0.accept$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124128:22)
+      at VariableExpression0.accept$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124131:19)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:86730:41
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90769:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90801:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _Future__asyncCompleteWithValue_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38430:18)
+      at Object._rootRun (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5329:16)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124448:16)
+      at _CustomZone.run$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39439:39)
+      at _CustomZone_bindCallback_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39536:25)
+      at Object._microtaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5189:24)
+      at StaticClosure._startMicrotaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5195:11)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import '@skyscanner/backpack-web/bpk-mixins/index.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 2:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import 'tokens.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 21:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import 'badges.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 22:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+23 │ @import 'borders.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 23:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+[2m5:42:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+[2m5:42:59 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88664:23
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at Object._asyncStartSync (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4885:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88670:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88644:19)
+      at VariableExpression0.accept$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124128:22)
+      at VariableExpression0.accept$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124131:19)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:86730:41
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90769:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90801:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _Future__asyncCompleteWithValue_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38430:18)
+      at Object._rootRun (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5329:16)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124448:16)
+      at _CustomZone.run$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39439:39)
+      at _CustomZone_bindCallback_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39536:25)
+      at Object._microtaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5189:24)
+      at StaticClosure._startMicrotaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5195:11)
+[2m5:42:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import '@skyscanner/backpack-web/bpk-mixins/index.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 2:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import 'tokens.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 21:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import 'badges.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 22:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+23 │ @import 'borders.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 23:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+[2m5:43:00 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88664:23
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at Object._asyncStartSync (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4885:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88670:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88644:19)
+      at VariableExpression0.accept$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124128:22)
+      at VariableExpression0.accept$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124131:19)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:86730:41
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90769:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90801:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _Future__asyncCompleteWithValue_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38430:18)
+      at Object._rootRun (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5329:16)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124448:16)
+      at _CustomZone.run$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39439:39)
+      at _CustomZone_bindCallback_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39536:25)
+      at Object._microtaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5189:24)
+      at StaticClosure._startMicrotaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5195:11)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import '@skyscanner/backpack-web/bpk-mixins/index.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 2:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+21 │ @import 'tokens.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 21:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │ @import 'badges.scss';
+   │         ^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 22:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+23 │ @import 'borders.scss';
+   │         ^^^^^^^^^^^^^^
+   ╵
+    node_modules/@skyscanner/backpack-web/bpk-mixins/_index.scss 23:9  @import
+    src/App.scss 2:9                                                   root stylesheet
+
+[2m5:43:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+  ╷
+5 │   padding: $bpk-spacing-xl;
+  │            ^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 5:12  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:5:12
+[33m  [sass] Undefined variable.
+    ╷
+  5 │   padding: $bpk-spacing-xl;
+    │            ^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 5:12  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88664:23
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at Object._asyncStartSync (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4885:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88670:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:88644:19)
+      at VariableExpression0.accept$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124128:22)
+      at VariableExpression0.accept$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124131:19)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:86730:41
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90769:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:90801:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _Future__asyncCompleteWithValue_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38430:18)
+      at Object._rootRun (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5329:16)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124448:16)
+      at _CustomZone.run$1$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39439:39)
+      at _CustomZone_bindCallback_closure.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39536:25)
+      at Object._microtaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5189:24)
+      at StaticClosure._startMicrotaskLoop (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5195:11)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+[2m6:00:23 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Can't find stylesheet to import.
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 1:9  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:1:9
+[33m  [sass] Can't find stylesheet to import.
+    ╷
+  1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 1:9  root stylesheet[39m
+[2m6:00:23 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [sass] Can't find stylesheet to import.
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 1:9  root stylesheet
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:1:9
+[33m  [sass] Can't find stylesheet to import.
+    ╷
+  1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 1:9  root stylesheet[39m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+[2m6:00:23 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Can't find stylesheet to import.
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 1:9  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:1:9
+[33m  [sass] Can't find stylesheet to import.
+    ╷
+  1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 1:9  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:87480:25
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95065:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95156:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:85124:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38357:11)
+      at _SyncCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38201:10)
+      at promiseToFuture_closure1.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:44897:22)
+      at Object.Primitives_applyFunction (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2178:30)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+[2m6:00:26 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Can't find stylesheet to import.
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 1:9  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:1:9
+[33m  [sass] Can't find stylesheet to import.
+    ╷
+  1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 1:9  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:87480:25
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95065:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95156:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:85124:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38357:11)
+      at _SyncCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38201:10)
+      at promiseToFuture_closure1.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:44897:22)
+      at Object.Primitives_applyFunction (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2178:30)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src/App.scss 1:9  root stylesheet
+
+[2m6:00:26 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Can't find stylesheet to import.
+  ╷
+1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+  src/App.scss 1:9  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/yongqiwu/code/chat/apps/chat/src/App.scss[39m:1:9
+[33m  [sass] Can't find stylesheet to import.
+    ╷
+  1 │ @import '~@skyscanner/bpk-foundations-web/tokens/base.default.scss';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src/App.scss 1:9  root stylesheet[39m
+      at Object.wrapException (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2302:47)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:87480:25
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95065:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:95156:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._completeWithValue$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38365:9)
+      at _AsyncAwaitCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:37987:14)
+      at Object._asyncReturn (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4893:17)
+      at /Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:85124:24
+      at _wrapJsFunctionForAsync_closure.$protected (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:4921:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38012:12)
+      at _awaitOnObject_closure.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38000:32)
+      at Object._rootRunUnary (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5339:18)
+      at StaticClosure.<anonymous> (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:124453:16)
+      at _CustomZone.runUnary$2$2 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:39444:39)
+      at _Future__propagateToListeners_handleValueCallback.call$0 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38502:51)
+      at Object._Future__propagateToListeners (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:5131:93)
+      at _Future._complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38357:11)
+      at _SyncCompleter.complete$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:38201:10)
+      at promiseToFuture_closure1.call$1 (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:44897:22)
+      at Object.Primitives_applyFunction (/Users/yongqiwu/code/chat/node_modules/.pnpm/sass@1.89.1/node_modules/sass/sass.dart.js:2178:30)
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: /Users/yongqiwu/code/chat/apps/chat/tsconfig.app.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: /Users/yongqiwu/code/chat/apps/chat/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/AnotherPage.tsx[22m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.scss[22m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m9:48:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.scss?direct, /src/styles.scss[22m
+[2m9:48:09 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m

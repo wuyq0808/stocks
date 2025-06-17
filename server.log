@@ -1,0 +1,14 @@
+
+> @org/stocks@0.0.1 start
+> react-router-serve ./build/server/index.js
+
+[react-router-serve] http://localhost:3000 (http://192.168.0.102:3000)
+GET / 401 - - 12.760 ms
+GET / 401 - - 1.184 ms
+GET / 401 - - 0.986 ms
+GET / 401 - - 1.120 ms
+HEAD / 401 - - 1.191 ms
+GET / 401 - - 0.857 ms
+HEAD / 200 - - 11.222 ms
+GET / 401 - - 1.721 ms
+

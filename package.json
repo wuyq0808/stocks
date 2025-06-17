@@ -1,0 +1,39 @@
+{
+  "name": "@org/stocks",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.4.1",
+    "npm": "10.8.2"
+  },
+  "scripts": {
+    "dev": "react-router dev",
+    "build": "react-router build",
+    "start": "react-router-serve ./build/server/index.js",
+    "test": "nx test",
+    "lint": "nx lint",
+    "typecheck": "react-router typegen && tsc"
+  },
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "@react-router/node": "^7.6.2",
+    "@react-router/serve": "^7.6.2",
+    "async-mutex": "^0.5.0",
+    "date-fns": "^4.1.0",
+    "isbot": "^5.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-markdown": "^10.1.0",
+    "react-router": "^7.6.2"
+  },
+  "devDependencies": {
+    "@react-router/dev": "^7.6.2",
+    "@types/node": "^24.0.3",
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  }
+}

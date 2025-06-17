@@ -1,0 +1,22 @@
+
+> @org/stocks@0.0.1 start
+> react-router-serve ./build/server/index.js
+
+[react-router-serve] http://localhost:3000 (http://192.168.0.102:3000)
+Auth check: {
+  hasCredentials: true,
+  credentialsName: 'admin',
+  envUser: 'admin',
+  envPass: 'password123',
+  authMatch: true
+}
+GET / 200 - - 22.737 ms
+Auth check: {
+  hasCredentials: false,
+  credentialsName: undefined,
+  envUser: 'admin',
+  envPass: 'password123',
+  authMatch: false
+}
+HEAD / 401 - - 1.592 ms
+
