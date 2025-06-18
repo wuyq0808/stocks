@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "react-router dev",
-    "build": "vite build",
+    "build": "react-router build",
     "start": "react-router-serve ./build/server/index.js",
     "test": "nx test",
     "lint": "nx lint",
